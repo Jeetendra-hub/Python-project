@@ -1,5 +1,5 @@
 
-print("A Faulty Calculator ")
+print("A Basic Calculator ")
 num1=float(input("Enter a number:"))
 oper=input("Enter a operator:")
 num2=float(input("Enter another number"))
